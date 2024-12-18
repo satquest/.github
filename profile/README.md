@@ -1,5 +1,10 @@
 ## a little bit of an intro to the github org
 
+>[!IMPORTANT]
+> Please add everything (or most of what) you do in this organization. If you need a refresher/don't know how to use git, [this tutorial might help](https://youtu.be/Oaj3RBIoGFc).
+> You're not forced to commit things in a certain way (i.e. atomic commits and whatnot), but please keep the repos up to date with whatever u do.
+>
+> That includes all sorts of stuff like 3d designs, diagrams, pcb schematics, code, writeups, documentation, etc.
 
 ### Repository organization
 We currently have 3 repositories.
